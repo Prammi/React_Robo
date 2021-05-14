@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Prammi/React_Robo/static/css/main.afd047f3.chunk.css",
+    "main.js": "/Prammi/React_Robo/static/js/main.0eb2b00d.chunk.js",
+    "main.js.map": "/Prammi/React_Robo/static/js/main.0eb2b00d.chunk.js.map",
+    "runtime-main.js": "/Prammi/React_Robo/static/js/runtime-main.7b71ca95.js",
+    "runtime-main.js.map": "/Prammi/React_Robo/static/js/runtime-main.7b71ca95.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/Prammi/React_Robo/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.ed6349a2.chunk.js": "/Prammi/React_Robo/static/js/2.ed6349a2.chunk.js",
+    "static/js/2.ed6349a2.chunk.js.map": "/Prammi/React_Robo/static/js/2.ed6349a2.chunk.js.map",
+    "index.html": "/Prammi/React_Robo/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/Prammi/React_Robo/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.afd047f3.chunk.css.map": "/Prammi/React_Robo/static/css/main.afd047f3.chunk.css.map",
+    "static/js/2.ed6349a2.chunk.js.LICENSE.txt": "/Prammi/React_Robo/static/js/2.ed6349a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b71ca95.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.ed6349a2.chunk.js",
+    "static/css/main.afd047f3.chunk.css",
+    "static/js/main.0eb2b00d.chunk.js"
+  ]
+}
